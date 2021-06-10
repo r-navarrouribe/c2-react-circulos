@@ -24,6 +24,8 @@ code {
   width: 100px;
   border-radius: 50%;
   background-color: #d3d3d3;
+  list-style-type: none;
+  margin-right: 50px;
 }
 
 .circulo .on {
